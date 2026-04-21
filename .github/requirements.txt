@@ -1,4 +1,0 @@
-streamlit
-alphavantage
-requests
-pandas
